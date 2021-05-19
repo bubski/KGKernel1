@@ -7,6 +7,7 @@
 6. calc
 # cursorcodes
 cursorcode 0: default cursor
+
 cursorcode 1: square cursor
 # Compiling the kernel
 You can compile the kernel using `make` command.
