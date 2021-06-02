@@ -299,4 +299,5 @@ int k_main()
     move_cursor(0, 0);
     clr();
     shell_input();
+    return 0;
 }
