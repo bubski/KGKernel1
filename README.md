@@ -9,5 +9,5 @@
 cursorcode 0: default cursor
 
 cursorcode 1: square cursor
-# Compiling the kernel
-You can compile the kernel using `make` command.
+# Compiling and emulating the kernel
+You can compile the kernel using `make` command and emulate the kernel using `qemu-system-i386 -kernel KGKernel1` command.
