@@ -374,9 +374,9 @@ char sctoc(char scancode)
             return 0x00;
             break;
         default:
-          cursor_x--;
-          tmp_str_keyboard[cursor_x - tmp_num] = 0x00;
-          return 0x00;
+            cursor_x--;
+            tmp_str_keyboard[cursor_x - tmp_num] = 0x00;
+            return 0x00;
     }
 }
 
